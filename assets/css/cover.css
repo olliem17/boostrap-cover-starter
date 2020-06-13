@@ -39,7 +39,8 @@ body {
 }
 
 .cover-container {
-  max-width: 42em;
+  width: 100%;
+  margin: 0 25px;
 }
 
 
